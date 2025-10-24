@@ -1,1 +1,1 @@
-# Patirnt_recovery_prediction
+# Patient_recovery_prediction
